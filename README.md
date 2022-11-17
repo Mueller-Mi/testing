@@ -14,4 +14,5 @@ Die Verbindung zwischen Databricks und Github kann mit Hilfe dieser Anleitung he
 https://medium.com/grabngoinfo/databricks-github-repo-integration-setup-b4fa7c61c057.
 
 Dies Funktioniert leider **nur** bei den selbst erstellten Repos. 
-Für die Verwendung des orp-fraud-national muss bei den einstellungen noch ... angewählt werden.  
+Für die Verwendung des orp-fraud-national muss der SSH Key in Github **authorisiert** werden. Dies kann unter den Entwicklereinstellung in Github vorgenommen werden.
+ 
